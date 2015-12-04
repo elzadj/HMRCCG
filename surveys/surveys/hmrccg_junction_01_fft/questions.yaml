@@ -1,0 +1,82 @@
+h_unique_response_id:
+    type: urid
+
+h_device:
+    type: custom
+
+h_finish_time:
+    type: datetime
+    format: Y-m-d H:i
+
+
+q_fft:
+    intro: We would like you to think about your recent experiences of our service
+    title: How likely are you to recommend our GP practice to friends and family if they needed similar care or treatment?
+    required: true
+    type: radio
+    options:
+        - Extremely likely
+        - Likely
+        - Neither likely nor unlikely
+        - Unlikely
+        - Extremely unlikely
+        - Don't know
+
+q_fft_why:
+    title: Can you tell us why you gave that response?
+    type: multiline
+
+q_fft_why_consent:
+    title: Do you give consent to have your comment published?
+    type: radio
+    required: true
+    options:
+        - 'Yes'
+        - 'No'
+
+q_gender:
+    title: What is your gender?
+    type: radio
+    required: true
+    options:
+        - Male
+        - Female
+        - Transgender
+        - I'd prefer not to say
+
+q_age:
+    title: What is your age?
+    required: true
+    type: radio
+    options:
+        - Under 16
+        - 16 - 24
+        - 25 - 34
+        - 35 - 44
+        - 45 - 54
+        - 55 - 64
+        - 65 - 74
+        - 75 - 84
+        - 85 and over
+        - I'd prefer not to say
+
+q_ethnicity:
+    title: What is your ethnic group?
+    required: true
+    type: radio
+    options:
+        - White
+        - Asian/Asian British
+        - Black/Black British
+        - Mixed
+        - Other
+        - I'd prefer not to say
+
+q_disability:
+    title: Do you consider yourself to have a disability?
+    required: true
+    type: radio
+    options:
+        - 'Yes'
+        - 'No'
+        - I'd prefer not to say

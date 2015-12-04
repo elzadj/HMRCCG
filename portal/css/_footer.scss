@@ -1,0 +1,35 @@
+.footer {
+    align-items: flex-end; //center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 20px 20px;
+
+    .buttons {
+        > * {
+            display: inline-block;
+        }
+
+        button, a {
+            $colour: hsl(0, 100, 40);
+
+            background-color: $colour;
+            border: $colour 2px solid;
+            border-radius: 4px;
+            color: white;
+            font-weight: bold;
+            font-size: 1em;
+            letter-spacing: 1px;
+            padding: 1em 2em;
+            text-transform: uppercase;
+            outline: none;
+
+            &:active {
+                background-color: white;
+                border-color: $colour;
+                color: $colour;
+            }
+        }
+    }
+
+    @import 'status-bar';
+}

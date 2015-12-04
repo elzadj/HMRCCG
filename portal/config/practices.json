@@ -1,0 +1,1445 @@
+[
+    {
+        "id"   : "K_URN_HMRCCG_1",
+        "title": "Longford Street Medical Centre",
+
+        "fft"  : "hmrccg_longfordst_01_fft",
+
+        "about": {
+            "address": "Longford St, Heywood, OL10 4NH",
+            "email"  : "hmrccg.longfordreception@nhs.net",
+            "hours"  : "Monday – Friday: 8am – 6pm",
+            "info"   : "",
+            "tel"    : "01706 621417",
+            "website": "http://www.longfordstreetmedicalcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_2",
+        "title": "Argyle Street Medical Centre",
+
+        "fft"  : "hmrccg_argylest_01_fft",
+
+        "about": {
+            "address": "141 Argyle St, Heywood, OL10 3SD",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8am – 6pm\nTuesday | 8am – 6pm\nWednesday | 8am – 6pm\nThursday | 8am – 6pm\nFriday | 8am – 6pm\nWeekend | Closed",
+            "info"   : "",
+            "tel"    : "01706 366135",
+            "website": "http://www.argylestreetmedicalcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_3",
+        "title": "Hopwood Medical Centre",
+
+        "fft"  : "hmrccg_hopwood_01_fft",
+
+        "about": {
+            "address": "HASP 1-3 Walton Rd, Heywood, OL10 2BS",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am - 6pm\nTuesday | 8.30am - 6pm\nWednesday | 8.30am - 6pm\nThursday | 8.30am - 6pm\nFriday | 8.30am - 6pm\nWeekend | Closed",
+            "info"   : "",
+            "tel"    : "01706 369886",
+            "website": "http://www.hopwoodmc.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_4",
+        "title": "Heady Hill Surgery",
+
+        "fft"  : "hmrccg_headyhill_01_fft",
+
+        "about": {
+            "address": "HASP, 114 Bury New Rd, Heywood, OL10 4RG",
+            "email"  : "",
+            "hours"  : "Day | Morning | Afternoon\n--- | --- | ---\nMonday | 9.00am – 12.30pm | 1.30pm – 6.00pm\nTuesday | 9.00am – 12.30pm | 1.30pm – 8.00pm\nWednesday | 9.00am – 12.30pm | On call Doctor\nThursday | 9.00am – 12.30pm | 1.30pm – 6.00pm\nFriday | 9.00am – 12.30pm | 1.30pm – 6.00pm",
+            "info"   : "",
+            "tel"    : "01706 622 600",
+            "website": "http://www.headyhillsurgery.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_5",
+        "title": "York House Surgery",
+
+        "fft"  : "hmrccg_yorkhouse_01_fft",
+
+        "about": {
+            "address": "HASP, 19 York St, Heywood, OL10 4NH",
+            "email"  : "yhs@nhs.net",
+            "hours"  : "Monday – Friday: 8.30am – 6.00pm",
+            "info"   : "",
+            "tel"    : "01706 628 628",
+            "website": "http://www.yorkhousesurgery.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_6",
+        "title": "Peterloo Medical Centre",
+
+        "fft"  : "hmrccg_peterloo_01_fft",
+
+        "about": {
+            "address": "133-137 Manchester Old Road, Middleton, M24 4DZ",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.30am – 6.00pm",
+            "info"   : "",
+            "tel"    : "0161 643 5005",
+            "website": "http://www.peterloomc.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_7",
+        "title": "The Junction Surgery",
+
+        "fft"  : "hmrccg_junction_01_fft",
+
+        "about": {
+            "address": "346 Grimshaw Lane, Middleton Junction, Middleton, M24 2AU",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am - 6.30pm\nTuesday | 8.30am - 6.30pm\nWednesday | 8.30am - 6.30pm\nThursday | 8.30am - 1.30pm\nFriday | 8.30am - 6.30pm",
+            "info"   : "There has been a doctors surgery at 346 Grimshaw Lane for over a hundred years. The previous partners were Dr McHenry, Dr Wallace, Dr McKee and Dr McCrea. Dr Thomason replaced Dr McKee on his retirement in 1979 and Dr Martin started at the Practice in 1982. The Practice took over the surgery at Mount Road in the early 00’s and then moved up to the newly built Alkrington Health Centre in 2008. In 1979 the Practice of two partners had a patient list of 5500 people. It employed one morning receptionist and one evening receptionist, plus a cleaner.\\n\\nThe Junction and Alkrington Surgeries now have a patient list size of 8000+ people and employ 31 members of staff, plus several locum doctors. Our doctors, nurses, healthcare assistants, counsellors and receptionists all split their time between both sites (some work more at one than the other) whilst our admin staff are usually based at one location.",
+            "tel"    : "0161 655 7478",
+            "website": "http://www.junctionsurgery.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_8",
+        "title": "Woodside Medical Centre",
+
+        "fft"  : "hmrccg_woodside_01_fft",
+
+        "about": {
+            "address": "Wood Street, Middleton, M24 5QL",
+            "email"  : "",
+            "hours"  : "",
+            "info"   : "",
+            "tel"    : "0161 643 9244",
+            "website": "http://www.woodsidemedicalcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_9",
+        "title": "Rochdale Road Medical Centre",
+
+        "fft"  : "hmrccg_rochdalerd_01_fft",
+
+        "about": {
+            "address": "The Surgery, 48A Rochdale Rd, Middleton, M24 2PU",
+            "email"  : "stefanilnyckyj@nhs.net",
+            "hours"  : "Monday – Friday: 8.45 – 6pm",
+            "info"   : "We are a long established, friendly, family practice",
+            "tel"    : "0161 643 9131",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_10",
+        "title": "Durnford Medical Centre",
+
+        "fft"  : "hmrccg_durnford_01_fft",
+
+        "about": {
+            "address": "113 Long St, Middleton, M24 6DL",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.30am – 6pm",
+            "info"   : "",
+            "tel"    : "0161 643 2011",
+            "website": "http://www.durnfordmc.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_11",
+        "title": "The Strand Medical Centre",
+
+        "fft"  : "hmrccg_strand_01_fft",
+
+        "about": {
+            "address": "The Strand, Rochdale, OL11 2JG",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 9am – 7.45pm\nTuesday | 9am – 7.45pm\nWednesday | 9am – 1pm\nThursday | 9am – 6pm\nFriday | 9am – 6pm",
+            "info"   : "The Strand Medical Center is a friendly family run practice in the heart of Kirkholt. We offer many services such as stop smoking, holiday vaccinations, seasonal Flu vaccinations, children's immunizations, pre-school boosters and much more!",
+            "tel"    : "01706 861616",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_12",
+        "title": "Windermere Surgery",
+
+        "fft"  : "hmrccg_windermere_01_fft",
+
+        "about": {
+            "address": "109 Windermere Rd, Middleton, M24 3WL",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am – 6.30pm\nTuesday | 8am – 6pm\nWednesday | 8am – 1pm\nThursday | 8am – 6pm\nFriday | 8am – 6pm\nSaturday | 9am – 10.30am",
+            "info"   : "",
+            "tel"    : "08444 778 558",
+            "website": "http://www.windermereroadsurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_13",
+        "title": "Clough Street Surgery",
+
+        "fft"  : "hmrccg_cloughst_01_fft",
+
+        "about": {
+            "address": "Clough Street, Middleton, M24 2YJ",
+            "email"  : "drstocktonandthompson@nhs.net",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.00am – 6.30pm\nTuesday | 8.00am – 7.00pm\nWednesday | 8.00am – 7.00pm\nThursday | 8.00am – 6.30pm\nFriday | 8.00am – 6.30pm",
+            "info"   : "Welcome to our award winning practice offering high quality personal primary care for an increasing number of registered patients in Middleton and the surrounding area. We pride ourselves on offering a professional and efficient service to our patients and continuously strive to improve our services. For more information please visit the [practice website](http://www.drstocktonandthompson.co.uk)",
+            "tel"    : "0161 654 4103",
+            "website": "http://www.drstocktonandthompson.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_14",
+        "title": "Healey Surgery",
+
+        "fft"  : "hmrccg_healey_01_fft",
+
+        "about": {
+            "address": "Whitworth Rd, Rochdale, OL12 0SN",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.30am – 6.00pm",
+            "info"   : "",
+            "tel"    : "01706 868 468",
+            "website": "http://www.healeysurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_15",
+        "title": "Edenfield Road Surgery",
+
+        "fft"  : "hmrccg_edenfieldrd_01_fft",
+
+        "about": {
+            "address": "Cutgate Shopping Centre, Rochdale, OL11 5AQ",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am – 6.30pm\nTuesday | 8.00am – 5.30pm\nWednesday | 8.30am – 5.30pm\nThursday | 8.30am – 6.30pm\nFriday | 8.30am – 5.30pm\n\nClosed for lunch every day 12.45 – 1.45pm",
+            "info"   : "Practice Purpose: Our purpose is to provide all patients with the highest quality of care and continuous improvement of healthcare. We aim to acheive this by continuing to offer training and development to both clinical and administration staff, to achieve the latest advances in primary healthcare.",
+            "tel"    : "01706 344125",
+            "website": "http://www.edenfieldroadsurgery.com/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_16",
+        "title": "Ashworth Street Surgery",
+
+        "fft"  : "hmrccg_ashworthst_01_fft",
+
+        "about": {
+            "address": "85 Spotland Rd, Rochdale, OL12 6RT",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.30am – 6.00pm",
+            "info"   : "Ashworth Street Surgery was formed in July 1999. There are six doctors who form the partnership: Drs Steve Doyle, Dave Osborne, Jenny Nelson, Shalini Gadiyar, Mark Mudalige and Adam Simmons. In addition to this we have a salaried GP, Dr Elizabeth Knott and a regular GP doing five sessions a week, Dr Kevin Cody, plus a number of training doctors, a nurse practitioner, practice nurses and health care assistants who compliment the team. There is also a large number of receptionists and administration staff who play a very important role in the everyday running of the practice.",
+            "tel"    : "01706 346 767",
+            "website": "http://www.ashworthstreetsurgeryrochdale.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_17",
+        "title": "Wellfield Surgery",
+
+        "fft"  : "hmrccg_wellfield_01_fft",
+
+        "about": {
+            "address": "291 Oldham Rd, Rochdale, OL16 5HX",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8am – 6pm",
+            "info"   : "",
+            "tel"    : "01706 261892",
+            "website": "http://www.wellfieldhealthcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_18",
+        "title": "Castleton Health Centre",
+
+        "fft"  : "hmrccg_castleton_01_fft",
+
+        "about": {
+            "address": "2 Elizabeth St, Rochdale, OL11 3HY",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.30am – 6pm",
+            "info"   : "",
+            "tel"    : "01706 658905",
+            "website": "http://castletonhealthcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_19",
+        "title": "Milnrow Village Practice",
+
+        "fft"  : "hmrccg_milnrow_01_fft",
+
+        "about": {
+            "address": "44-48 Newhey Rd, Rochdale, OL16 4EG",
+            "email"  : "hmrccg.milnrowvillagepractice@nhs.net",
+            "hours"  : "Monday – Friday: 8.30am – 6.00pm\n\nThe surgery doors are open from 8am each morning (for collecting and dropping things off) but access to the building is via an Intercom on the front door. On Tuesday we offer extended hours until 9pm. This is for pre-booked Doctor appointments and again, access is via the intercom on the front door.",
+            "info"   : "The practice is keen to keep abreast of any changes and we pride ourselves on keeping the whole team up to date with everything we do. For this reason, we close for team training on the 2nd Thursday of each month from 1-4pm. The practice re-opens for evening surgery etc at 4pm.",
+            "tel"    : "01706 641 409",
+            "website": "http://www.milnrowvillagepractice.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_20",
+        "title": "Yorkshire Street Surgery",
+
+        "fft"  : "hmrccg_yorkshirest_01_fft",
+
+        "about": {
+            "address": "188-190 Yorkshire St, Rochdale, OL16 2DN",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8.00am – 6.00pm",
+            "info"   : "Yorkshire Street Surgery is a long established group practice. The premises were extended and refurbished in 1994 and this greatly improved the facilities available for our patients. All of patient services are available on the ground floor with easy access for wheelchair users and include disabled toilet facilities.",
+            "tel"    : "01706 390 243",
+            "website": "http://yorkshirestreetsurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_21",
+        "title": "Mark Street Surgery",
+
+        "fft"  : "hmrccg_markst_01_fft",
+
+        "about": {
+            "address": "2 Mark St, Rochdale, OL12 9BE",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 7.00am – 6.00pm\nTuesday | 7.30am – 6.00pm\nWednesday | 7.30am – 6.00pm\nThursday | 7.30am – 6.00pm\nFriday | 7.30am – 6.00pm",
+            "info"   : "",
+            "tel"    : "01706 643 183",
+            "website": "http://www.markstreetsurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_22",
+        "title": "Stonefield Street Surgery",
+
+        "fft"  : "hmrccg_stonefieldst_01_fft",
+
+        "about": {
+            "address": "Stonefield St, Rochdale, OL16 4JQ",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8am – 6pm",
+            "info"   : "",
+            "tel"    : "01706 646234",
+            "website": "http://www.stonefieldstreetsurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_23",
+        "title": "The Dawes Family Practice",
+
+        "fft"  : "hmrccg_dawes_01_fft",
+
+        "about": {
+            "address": "83 Spotland Rd, Rochdale, OL12 6RX",
+            "email"  : "dawesfp.prescriptions@nhs.net",
+            "hours"  : "Monday – Friday: 8am – 6pm\n\nSaturday (extended hours): 8.30am – 12pm (pre-booked appointments only)",
+            "tel"    : "01706 644 044",
+            "website": "http://www.dawesfp.gpsurgery.net/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_24",
+        "title": "The Village Medical Centre",
+
+        "fft"  : "hmrccg_village_01_fft",
+
+        "about": {
+            "address": "Peel St, Rochdale, OL15 8AQ",
+            "email"  : "",
+            "hours"  : "Day | Morning | Afternoon\n--- | --- | ---\nMonday | 8.30am – 1pm | 2pm – 6pm\nTuesday | 8.30am – 1pm | 2pm – 6pm\nWednesday | 8.30am – 1pm | closed\nThursday | 8.30am – 1pm | 2pm – 6pm\nFriday | 8.30am – 1pm | 2pm – 6pm",
+            "info"   : "",
+            "tel"    : "01706 370666",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_25",
+        "title": "Trinity Medical Centre",
+
+        "fft"  : "hmrccg_trinity_01_fft",
+
+        "about": {
+            "address": "22 Winton St, Rochdale, OL15 8AR",
+            "email"  : "",
+            "hours"  : "Day | Morning | Afternoon\n--- | --- | ---\nMonday | 8.30am - 10.30am | 4pm - 7pm\nTuesday | 8.30am - 10.30am | 4pm - 6pm\nWednesday | 8.30am - 10.30am | 4pm - 6pm\nThursday | 8.30am - 10.30am | Closed\nFriday | 8.30am - 10.30am | 4pm - 6pm\nSaturday | 9am - 12pm | Closed\nSunday | Closed | Closed",
+            "info"   : "",
+            "tel"    : "01706 378476",
+            "website": "http://www.trinitymedicalcentre.org.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_26",
+        "title": "Dr Bhima - Nye Bevan House",
+
+        "fft"  : "hmrccg_drbhima_01_fft",
+
+        "about": {
+            "address": "1st Floor, Maclure Rd, Rochdale, OL11 1DN",
+            "email"  : "",
+            "hours"  : "",
+            "info"   : "",
+            "tel"    : "01706 261810",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_27",
+        "title": "Dr Syed - Nye Bevan House",
+
+        "fft"  : "hmrccg_drsyed_01_fft",
+
+        "about": {
+            "address": "2nd Floor, Maclure Rd, Rochdale, OL11 1DN",
+            "email"  : "",
+            "hours"  : "",
+            "info"   : "",
+            "tel"    : "01706 651900",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_28",
+        "title": "Dr Hamid - Nye Bevan House",
+
+        "fft"  : "hmrccg_drhamid_01_fft",
+
+        "about": {
+            "address": "2nd Floor, Maclure Rd, Rochdale, OL11 1DN",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30pm – 6pm\nTuesday | 8.30pm – 6pm\nWednesday | 8.30pm – 3pm\nThursday | 8.30pm – 6pm\nFriday | 8.30pm – 6pm\nWeekend | closed\n\nExtended hours on Tuesday (6.30pm – 8pm)\nWednesday phones until 1pm",
+            "info"   : "The Practice operates from the first Lift building in Rochdale, a building designed for service delivery to the local comunity in the 21st century. Offering a new style of delivery services to patients across the Rochdale Borough.",
+            "tel"    : "01706 261888",
+            "website": "http://www.drhamidspractice.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_29",
+        "title": "Dr Ghafoor - Nye Bevan House",
+
+        "fft"  : "hmrccg_drghafoor_01_fft",
+
+        "about": {
+            "address": "1st Floor, Maclure Rd, Rochdale, OL11 1DN",
+            "email"  : "hmrccg.drghafoor-abbasi@nhs.net",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 7.30am – 6.30pm\nTuesday | 7.30am – 6.30pm\nWednesday | 7.30am – 6.30pm\nThursday | 7.30am – 1.30pm\nFriday | 7.30am – 6.30pm",
+            "info"   : "Dr Ghafoors Medical centre aims to provide a quality service to its patients promoted by the continous efforts of its Practitioners, Locums or Deputies, Management, Staff and any Health Authority or NHS staff attached to the practice. We operate a personal medical service and try to ensure continuity of care. Our practice is open Monday to Friday. Full practice nursing services, family planning, midwifery and child health care are available, and our deicated reception staff are trained to assist you in making the most of our many services.",
+            "tel"    : "01706 261 999",
+            "website": "http://www.drsghafoorandabbasi.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_30",
+        "title": "Croft Shifa Health Centre",
+
+        "fft"  : "hmrccg_croftshifa_01_fft",
+
+        "about": {
+            "address": "2nd Floor, Belfield Rd, Rochdale, OL16 2UP",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.00am – 7.30pm\nTuesday | 8.00am – 7.30pm\nWednesday | 8.00am – 6.30pm\nThursday | 8.00am – 6.30pm\nFriday | 8.00am – 6.30pm",
+            "info"   : "",
+            "tel"    : "01706 261 883",
+            "website": "http://www.croftshifahealthcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_31",
+        "title": "Inspire Medical Centre",
+
+        "fft"  : "hmrccg_inspire_01_fft",
+
+        "about": {
+            "address": "The Croft Shifa Health Centre, Rochdale, OL16 2UY",
+            "email"  : "hmrccg.admin-imc@nhs.net",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am – 7.00pm\nTuesday | 8.30am – 7.00pm\nWednesday | 8.30am – 3.00pm\nThursday | 8.30am – 6.30pm\nFriday | 8.30am – 6.30pm",
+            "info"   : "",
+            "tel"    : "01706 860 847",
+            "website": "http://www.inspiremedicalcentre.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_32",
+        "title": "Littleborough Group Practice",
+
+        "fft"  : "hmrccg_littleborough_01_fft",
+
+        "about": {
+            "address": "Feastherstall Rd, Rochdale, OL15 8HF",
+            "email"  : "hmrccglittleboroughgp@nhs.net",
+            "hours"  : "Day | Hours | Notes\n--- | --- | ---\nMonday | 8.30am – 8.45pm | Extended hours from 6.30pm\nTuesday | 8.30am – 6.30pm |\nWednesday | 7am – 6.30pm | Acute on the day booking not taken until 8.30am\nThursday | 8.30am – 6.30pm | 2nd Thursday of every month closed 13:00 until 6.30pm\nFriday | 8.30am – 6.30pm |\nWeekend | closed |",
+            "info"   : "",
+            "tel"    : "01706 393000",
+            "website": "http://www.littleboroughgrouppractice.nhs.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_33",
+        "title": "Pennine Surgery",
+
+        "fft"  : "hmrccg_pennine_01_fft",
+
+        "about": {
+            "address": "Feastherstall Rd, Rochdale, OL15 8DH",
+            "email"  : "",
+            "hours"  : "Monday – Friday: 8am – 6.30pm",
+            "info"   : "A small friendly family practice.",
+            "tel"    : "01706 374 990",
+            "website": "http://www.penninesurgery.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_34",
+        "title": "Smallbridge Practice",
+
+        "fft"  : "hmrccg_smallbridge_01_fft",
+
+        "about": {
+            "address": "Stevenson Square, Smallbridge, Rochdale, OL12 9SA",
+            "email"  : "hmrccg.intrahealthsmallbridge@nhs.net",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.00am – 6.30pm\nTuesday | 8.00am – 6.30pm\nWednesday | 8.00am – 6.30pm\nThursday | 8.00am – 8.00pm\nFriday | 8.00am – 6.30pm\nSaturday | 8.00am – 12.00pm\nSunday | Closed",
+            "info"   : "",
+            "tel"    : "01706 261 802",
+            "website": "http://www.intrahealth.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_35",
+        "title": "Kingsway Practice",
+
+        "fft"  : "hmrccg_kingsway_01_fft",
+
+        "about": {
+            "address": "285a Kingsway, Rochdale, OL16 4A",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8.30am – 7.00pm\nTuesday | 8.30am – 7.00pm\nWednesday | 8.30am – 7.00pm\nThursday | 8.30am – 7.00pm\nFriday | 8.30am – 6.30pm\nSaturday | 9.00am – 11.00am",
+            "info"   : "We are a small, single-handed practice based in the centre of Rochdale. We endeavour to provide the best patient care possible and pride ourselves on the friendliness of our staff.",
+            "tel"    : "01706 261 866",
+            "website": "http://www.thekingswaypractice.co.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_36",
+        "title": "Kirkholt Practice",
+
+        "fft"  : "hmrccg_kirkholt_01_fft",
+
+        "about": {
+            "address": "Queens Drive, Kirkholt, Rochdale, OL11 2NP",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8am - 6.30pm\nTuesday | 8am - 7pm\nWednesday | 8am - 6.30pm\nThursday | 8am - 7pm\nFriday | 8am - 6.30pm\nSaturday | 9am - 12pm\nSunday | Closed",
+            "info"   : "",
+            "tel"    : "01706 261813",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_37",
+        "title": "Birtle View",
+
+        "fft"  : "hmrccg_birtleview_01_fft",
+
+        "about": {
+            "address": "George St, Heywood, OL10 4PW",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8am – 7pm\nTuesday | 8am – 6.30pm\nWednesday | 8am – 7pm\nThursday | 8am – 6.30pm\nFriday | 8am – 6.30pm\nSaturday | 9am – 12pm\nSunday | Closed",
+            "info"   : "",
+            "tel"    : "01706 261823",
+            "website": ""
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    },
+    {
+        "id"   : "K_URN_HMRCCG_38",
+        "title": "Middleton Health Practice",
+
+        "fft"  : "hmrccg_middleton_01_fft",
+
+        "about": {
+            "address": "Unit F1, Arndale Centre, Middleton, M24 4EL",
+            "email"  : "",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 8am – 8pm\nTuesday | 8am – 8pm\nWednesday | 8am – 8pm\nThursday | 8am – 8pm\nFriday | 8am – 8pm\nSaturday | 8am – 6pm\nSunday | 8am – 6pm",
+            "info"   : "Middleton Health Centre operates out of a modern purpose built unit which is located within Middleton Shopping Centre. The unit has facilities for those who may need assistance. There are disabled toilets, accessible seating, hearing aid loops and the health centre is all on one level. Within the shopping centre there is disabled parking available and lifts to each floor. We have a dedicated children’s waiting area to keep them entertained whilst waiting. We ask that parents supervise their children in the area whilst they are waiting. Within the children’s area there is also a section for women who may want to breast feed.",
+            "tel"    : "0161 655 7434",
+            "website": "http://www.middletonhealthcentre.org.uk/"
+        },
+
+        "links": [
+            {
+                "title": "NHS Choices",
+                "subtitle": "Conditions, services, advice",
+                "url": "http://www.nhs.uk/"
+            },
+            {
+                "title": "Patient UK",
+                "subtitle": "Symptom checker, health information, medication guide",
+                "url": "http://www.patient.co.uk/"
+            },
+            {
+                "title": "Change4Life",
+                "subtitle": "Healthy food and activity tips for you and your kids",
+                "url": "http://www.nhs.uk/change4life/"
+            },
+            {
+                "title": "Heywood, Middleton & Rochdale<br>Clinical Commissioning Group",
+                "subtitle": "Responsible for organising a number of local NHS services",
+                "url": "http://www.hmr.nhs.uk/"
+            }
+        ]
+    }
+]

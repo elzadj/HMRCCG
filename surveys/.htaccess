@@ -1,0 +1,11 @@
+RewriteEngine on
+
+# -- Use system folder -- #
+# ( Include JSON files, so they can be read client-side )
+RewriteCond $1 !^(config|surveys|system|toolkit|ui|vendor|(.*)\.json|(.*)\.txt)
+RewriteRule ^(.*)$ system/$1 [L]
+
+# -- Shortcuts -- #
+RewriteRule ^system/upload system/upload_db.php
+RewriteRule ^system/setup system/setup_db.php
+RewriteRule ^system/skeleton system/skeleton.php

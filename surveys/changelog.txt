@@ -1,0 +1,13 @@
+Survey Creator wrapper
+----------------------
+
+v2.0 - 30 November 2014
+----
+
+- Built to support SC toolkit v2.0
+- Wrapper now has total control of generated HTML. It only asks for raw data from the toolkit.
+- Multi-language and media support, with 'id' attributes in YAML text elements.
+- UI themes
+- Defined images will be searched for in survey language folder, then survey folder then global surveys folder. Falls back to the literal path.
+- Uses Composer for dependencies.
+- Uses Grunt for preprossing and optimisation.

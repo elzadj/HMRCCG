@@ -1,0 +1,15 @@
+Survey Creator toolkit
+----------------------
+
+v2.0 - 30 Nov 2014
+-----
+
+- The toolkit no longer dictates HTML. Instead this must be handled by the wrapper.
+- Now loads and caches survey form according to specified language (falls back to default).
+- New 'intro' attribute in SC Question YAML for question framing.
+- All YAML text elements can be expanded into an object to assign the 'type' attribute, and more. 'type' can now be defined as 'plain' (default), 'markdown', 'markdown-block', or 'html'.
+- New 'image' attribute in SC Question YAML for adding an image related to the question.
+- Inline images can be included within SC Question YAML and SC Structure YAML text with HTML or Markdown.
+- All respondent answers are now saved, regardless of the path the user takes. Only relevent answers are stored in the final response.
+- Uses Composer for dependancy management
+- Now throws exceptions on errors, instead of abrupt exit()

@@ -1,0 +1,97 @@
+// HUD
+.status-icons {
+    // background-color: rgba(255, 255, 255, 0.9);
+    // border: #eee 1px solid;
+    // border-top-left-radius: 12px;
+    // border-width-bottom: 0;
+    // border-width-right: 0;
+    // bottom: 0;
+    color: #666; font-size: 13px;
+    font-weight: normal;
+    // position: absolute;
+    // right: 0;
+    text-align: right;
+    
+    * {
+        margin: 0; padding: 0;
+        vertical-align:middle;
+        line-height: 0;
+    }
+
+    > div {
+        display: inline-block;
+        list-style: none;
+        margin-left: 15px;
+        text-align: right;
+    }
+}
+
+.version {
+    color: #ccc; font-size: 13px;
+    font-weight: normal;
+}
+
+.upload-status {
+    img {
+        margin-right: .75ex;
+        //vertical-align: bottom;
+    }
+}
+
+.battery-level {
+    p {
+        display: inline-block;
+    }
+
+    > div {
+
+        // Colour
+        &.level_1 > p,
+        &.level_2 > p   { color: #c33; }
+
+        &.level_3 > p,
+        &.level_4 > p,
+        &.level_5 > p,
+        &.level_6 > p   { color: #c93; }
+
+        &.level_7 > p,
+        &.level_8 > p,
+        &.level_9 > p,
+        &.level_10 > p  { color: #393; }
+
+        > div {
+            display: inline-block;
+            width: 20px; height: 12px;
+            background-image: url(../img/icon_battery_levels.png);
+            vertical-align: middle;
+        }
+
+        // Sprite position
+        &.level_1 > div  { background-position: left 120px; }
+        &.level_2 > div  { background-position: left 108px; }
+        &.level_3 > div  { background-position: left 96px; }
+        &.level_4 > div  { background-position: left 84px; }
+        &.level_5 > div  { background-position: left 72px; }
+        &.level_6 > div  { background-position: left 60px; }
+        &.level_7 > div  { background-position: left 48px; }
+        &.level_8 > div  { background-position: left 36px; }
+        &.level_9 > div  { background-position: left 24px; }
+        &.level_10 > div { background-position: left 12px; }
+    }
+}
+
+
+.connectivity {
+    > div {
+        width: 24px; height: 24px;
+        background: url('../img/icon_connectivity.png') left center no-repeat;
+
+        &.connectivity_on {
+            background-position: left 0px;
+        }
+        &.connectivity_partial,
+        &.connectivity_off{
+            background-position: left -24px;
+        }
+    }
+}

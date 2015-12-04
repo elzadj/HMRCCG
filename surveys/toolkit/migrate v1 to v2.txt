@@ -1,0 +1,31 @@
+# Upgrading to v2.x
+
+The toolkit has had a major rewrite. The YAML schema has changed slightly and many functions have been removed or replaced. For a start, all HTML-generating functions have been removed.
+
+If upgrading to v2.x, do start afresh with the latest wrapper code. It is not worth retrofitting v2.x toolkit into an old wrapper.
+
+Old survey YAML files can be manually upgraded, by taking the following into consideration:
+
+## General
+
+- YAML parsing is now in strict mode. This means arrays and objects cannot be mixed and some strings will need to be wrapped in quotes.
+- All text values can be expanded into an object with 'id', 'content' and 'type' attributes.
+- The 'content' attribute replaces 'title' for consistency, but 'title' will still work.
+- The 'type' attribute can be set to 'plain' (default), 'markdown', 'markdown-block', or 'html'.
+
+
+## questions.yaml
+
+- The 'other' attribute must now be defined in question root.
+
+
+## structure.yaml
+
+- QuestionID elements can be expanded for text blocks. The 'type' will default to 'question' if not.
+- 'text' and 'image' attributes must be replaced with a text object as described above.
+- The 'intro' element is no longer supported. Use a normal text object instead.
+
+
+## rules.yaml
+
+- no changes

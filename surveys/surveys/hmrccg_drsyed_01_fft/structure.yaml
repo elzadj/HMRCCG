@@ -1,0 +1,32 @@
+# ==============================
+# Generated: 2014-11-21 11.47.39
+# ==============================
+
+cat_fft:
+    title: Feedback
+    pages:
+        pg_fft:
+            questions:
+                - q_fft
+        pg_fft_why:
+            questions:
+                - q_fft_why
+        pg_fft_why_consent:
+            questions:
+                - q_fft_why_consent
+
+cat_demographics:
+    title: About you
+    pages:
+        pg_gender:
+            questions:
+                - q_gender
+        pg_age:
+            questions:
+                - q_age
+        pg_ethnicity:
+            questions:
+                - q_ethnicity
+        pg_disability:
+            questions:
+                - q_disability

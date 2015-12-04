@@ -1,0 +1,7 @@
+{
+	"isOffline": false,
+
+	"urls": {
+        "menu": "http://www.elephantkiosks.com/{DID}"
+	}
+}

@@ -1,0 +1,57 @@
+.home-page {
+
+	.row {
+		display: -ms-flexbox;
+		display: flex;
+		
+		-ms-flex-align: stretch;
+		align-items: stretch;
+
+		-ms-flex-pack: justify;
+		justify-content: space-between;
+	}
+
+	.linkbox {
+		position: relative;
+		display: block;
+		
+		-ms-flex: 1;
+		flex: 1;
+
+		height: 500px;
+		margin: 20px;
+		border: 1px #ccc solid;
+		border-radius: 2px;
+
+		footer {
+			position: absolute;
+			right: 10px;
+			bottom: 10px;
+			color: white;
+		}
+	}
+
+
+
+	.button {
+		float: right;
+		margin: 20px;
+		font-size: 26px;
+	}
+
+
+	.fft {
+		background:
+			url('../img/cyclist.svg') center bottom no-repeat,
+			url('../img/sky.jpg') center top no-repeat;
+		background-size: fit;
+	}
+
+	.info {
+		background: url('../img/imgPatientInfo.jpg') center bottom no-repeat;
+	}
+
+	.links {
+		background: url('../img/imgPatientServices.jpg') center bottom no-repeat;
+	}
+}

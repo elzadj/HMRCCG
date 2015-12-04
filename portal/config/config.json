@@ -1,0 +1,13 @@
+{
+    "devices": {
+        "web": {
+            "isOffline": false
+        },
+        "kiosk": {
+            "isOffline": false
+        },
+        "handheld": {
+            "isOffline": true
+        }
+    }
+}

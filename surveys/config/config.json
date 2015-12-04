@@ -1,0 +1,19 @@
+{
+	"surveyTitle": "Default survey title",
+
+	"theme": "BluePixel",
+	
+	"settings": {
+		"ignoreDefaults":      true,
+		"markRequiredAnswers": true,
+		"outroTimeout":        15,
+		"media":			   false
+	},
+
+	"timeouts": {
+		"type":        "none",
+		"warningTime": 120,
+		"actionTime":  60
+	}
+}
+

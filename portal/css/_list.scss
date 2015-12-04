@@ -1,0 +1,13 @@
+.list-page {
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start
+    }
+	li {
+        //display: inline-block;
+        //width: 49%;
+        padding-right: 20px;
+        width: 400px;
+	}
+}
